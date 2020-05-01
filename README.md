@@ -5,6 +5,10 @@ A command line in French for TI-92 calculators.
 ![SmilyOS: Prompt](smilyos02.png)
 ![SmilyOS: Chaining commands](smilyos03.png)
 
+## Starting SmilyOS
+
+Just type `smos()` and ENTER.
+
 ## Available commands
 
 - **aide**: shows help (`aide`)
