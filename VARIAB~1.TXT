@@ -1,0 +1,38 @@
+Liste des variables de Smily OS 3.xx :
+
+a : stocke le code de protection de la TI.
+b : stocke le numéro du choix du Popup de Config.
+burning : élément du compteur du searcher.
+com : stocke la ligne de commandes compléte.
+coma : stocke les arguments d'une commande.
+come : stocke une commande.
+erreur : stocke le numéro de la derniére erreur.
+ima : marqueur de l'extracteur de commandes.
+long : stocke la longueur en caractéres de la variable locale com.
+longueur : élément du compteur de l'extracteur de commandes.
+marque : marqueur du searcher.
+merque : marqueur dans la boucle de découpage de path pour 'dir'.
+newnom : stocke le nouveau nom de la variable renommée avec ren.
+nom : stocke le nom de la variable à créer avec crvar.
+oldmode : stocke les anciens réglages de la TI.
+oldnom : stocke l'ancien nom de la variable renommée avec ren.
+petro : stocke la longueur en caractéres de la variable locale come.
+plus : stocke la longueur de coma pour crvar.
+qdos : élément du compteur de l'extracteur de commandes.
+repd : stocke le répertoire destination de la commande copie.
+repe : stocke le répertoire source de la commande copie.
+reper : stocke le nom du répertoire de travail dans 'uninstal'.
+repére : marqueur interne de la commande crvar.
+reps : stocke le répertoire source de la commande dep.
+repst : stocke le répertoire destination de la commande dep.
+savcom : sauvegarde de la ligne de commandes.
+taille : stocke la longueur en caractéres de la variable path.
+todel : nom du fichier à supprimer par 'uninstal'.
+toille : stocke la longueur en caractéres de la variable path.
+totry : contient le nom du répertoire à scanner sur une boucle du
+searcher.
+varb : stocke le nom de la variable à déplacer avec dep.
+vard : stocke la variable destination de la commande copie.
+vari : stocke la variable source de la commande copie.
+valeur : stocke la valeur de la variable créée avec crvar.
+version : stocke la version de SMOS.
