@@ -18,7 +18,7 @@ Just type `smos()` and ENTER.
 - **config**: configure the command line (`config`)
 - **copie**: copy a variable, aka a file (`copy var1 var2`)
 - **crdir**: create a directory (`crdir mydir`)
-- **crvar**: create a variable, aka a file (`crvar name,value`)
+- **crvar**: create a variable, aka a file (`crvar "value"->varName`)
 - **del**: delete a variable (`del var3`)
 - **delcd**: delete a directory (`delcd mydir`)
 - **dep**: move a variable (`dep`)
